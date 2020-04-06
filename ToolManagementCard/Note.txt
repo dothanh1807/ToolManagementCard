@@ -1,0 +1,4 @@
+Chi chay voi duong dan den' Desktop la: C:\Users\Administrator\Desktop
+
+Neu khong thi` phai dung` IDE chay SourceCode de thay doi duong` dan
+phu` hop trong code!
